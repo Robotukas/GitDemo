@@ -1,4 +1,4 @@
-# GitDemo Repository u=/sdssf
+# GitDemo Repo
 This is a demo app for the Git Course.
 
 ## Roadmap
